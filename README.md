@@ -66,3 +66,48 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshul13-hub&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
+<div align="center">
+
+  <h1>Anshul Lal</h1>
+  
+  <p><b>Computer Science & Engineering Student | Full-Stack & IoT Developer</b></p>
+
+  <!-- Typing GIF Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38B2AC&center=true&vcenter=true&width=500&lines=Aspiring+Software+Development+Engineer;Building+Scalable+Web+App;Exploring+IoT+%26+Embedded+Systems;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+
+  <br />
+
+  <!-- Social Badges -->
+  <p>
+    <a href="https://linkedin.com/in/anshul-l-1a9152313ansh-ul" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://leetcode.com/u/anshul1309/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    <a href="https://www.geeksforgeeks.org/user/anshul6b7o/" target="_blank">
+      <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" />
+    </a>
+    <a href="https://www.hackerrank.com/profile/anshul67895" target="_blank">
+      <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    </a>
+  </p>
+
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=anshul13-hub&label=Profile%20Views&color=008080&style=flat-square" alt="Profile Views" />
+
+</div>
+
+<hr />
+
+### 👤 About Me
+
+
+struct Developer {
+    string name = "Anshul Lal";
+    string degree = "B.E. Computer Science and Engineering";
+    string interests[] = {"Software Engineering", "Full-Stack Development", "IoT & Embedded Systems"};
+    string current_focus = "Data Structures & Algorithms in Java/C++";
+};
