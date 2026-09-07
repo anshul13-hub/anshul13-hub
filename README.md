@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- HEADER -->
+<!-- ===================== HEADER ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anshul%20Lal&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Anshul%20Lal&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=58&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+%7C+Data+Structures+%26+Algorithms;Full-Stack+Web+Developer;Building+Real-World+Projects;Always+Learning+%26+Improving+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&lines=Java+%7C+Data+Structures+%26+Algorithms;Full-Stack+Web+Developer;Building+Real-World+Projects;Learning+%26+Improving+Every+Day+%F0%9F%9A%80" />
 
 <br><br>
 
-<!-- SOCIAL LINKS -->
+<!-- ===================== SOCIAL LINKS ===================== -->
 
 <a href="https://linkedin.com/in/anshul-l-1a9152313ansh-ul">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -50,11 +50,11 @@
 
 🌐 Currently building applications using the **MERN stack**.
 
-🧠 Enjoy solving programming problems and improving my problem-solving skills.
+🧠 Enjoy solving programming problems and strengthening my problem-solving skills.
 
-🚀 Interested in building **real-world, scalable applications**.
+🚀 Interested in building **real-world and scalable applications**.
 
-🤝 Open to collaborating on **interesting software and open-source projects**.
+🤝 Open to collaborating on **software projects and open-source initiatives**.
 
 🎯 Currently preparing for **software development opportunities and technical interviews**.
 
@@ -64,7 +64,7 @@
 
 # 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,cpp,c,javascript,python" />
@@ -89,38 +89,38 @@
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎟️ EventHub
+## 🎟️ EventHub
 
-**College Event Management Platform**
+### College Event Management Platform
 
 A full-stack platform designed to simplify college event creation, registration and attendance.
 
-**Key Features**
+**Features**
 
 - 🔐 JWT Authentication
-- 🎯 Event Management
+- 🎯 Event Creation & Management
 - 📝 Event Registration
 - ❌ Registration Cancellation
 - 📱 QR-based Attendance
 - 📊 User Dashboard
 
-**Tech Stack**
+**Tech**
 
 `React` `Node.js` `Express` `MongoDB` `JWT`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💼 HireBridge
+## 💼 HireBridge
 
-**Campus Placement Portal**
+### Campus Placement Portal
 
 A full-stack placement platform connecting students, recruiters and administrators.
 
-**Key Features**
+**Features**
 
 - 👨‍🎓 Student Dashboard
 - 🏢 Recruiter Dashboard
@@ -129,7 +129,7 @@ A full-stack placement platform connecting students, recruiters and administrato
 - 📩 Application Management
 - 🔐 Authentication & Authorization
 
-**Tech Stack**
+**Tech**
 
 `React` `Node.js` `Express` `MongoDB`
 
@@ -139,31 +139,31 @@ A full-stack placement platform connecting students, recruiters and administrato
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💰 Fintech
+## 💰 Fintech
 
-**Financial Management Application**
+### Financial Management Application
 
-A web application focused on managing financial information through an intuitive interface.
+A web application focused on managing financial information through a clean and intuitive interface.
 
-**Tech Stack**
+**Tech**
 
 `HTML` `CSS` `JavaScript`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧩 Code Radar Solutions
+## 🧩 Code Radar Solutions
 
-**Programming Problem Solutions**
+### Programming Problem Solutions
 
-A collection of solutions for programming problems and competitive coding practice.
+A collection of programming solutions focused on problem solving and algorithmic thinking.
 
 **Focus**
 
-`C` `Problem Solving` `Algorithms`
+`C` `Algorithms` `Problem Solving`
 
 </td>
 
@@ -176,21 +176,21 @@ A collection of solutions for programming problems and competitive coding practi
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Arrays-Expert-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Strings-Strong-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/HashMap%20%26%20HashSet-Strong-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Linked%20List-Strong-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Stack%20%26%20Queue-Strong-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Binary%20Search-Strong-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Recursion-Strong-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Backtracking-Strong-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Trees-Learning-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Graphs-Learning-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Dynamic%20Programming-Learning-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Greedy-Strong-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Sorting-Strong-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Two%20Pointers-Strong-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Sliding%20Window-Strong-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Arrays-Strong-36BCF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Strings-Strong-36BCF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/HashMap%20%26%20HashSet-Strong-36BCF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Linked%20List-Strong-36BCF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Stack%20%26%20Queue-Strong-36BCF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Binary%20Search-Strong-36BCF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Recursion-Strong-36BCF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backtracking-Strong-36BCF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Trees-Learning-6e7681?style=flat-square"/>
+<img src="https://img.shields.io/badge/Graphs-Learning-6e7681?style=flat-square"/>
+<img src="https://img.shields.io/badge/Dynamic%20Programming-Learning-6e7681?style=flat-square"/>
+<img src="https://img.shields.io/badge/Greedy-Strong-36BCF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sorting-Strong-36BCF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Two%20Pointers-Strong-36BCF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sliding%20Window-Strong-36BCF7?style=flat-square"/>
 
 </div>
 
@@ -198,15 +198,23 @@ A collection of solutions for programming problems and competitive coding practi
 
 <div align="center">
 
-### 🧩 Problem Solving
-
 <a href="https://leetcode.com/u/anshul1309/">
-<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/user/anshul6b7o/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-Problem%20Solving-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+<div align="center">
+
+<img src="./focus.svg" width="900" alt="Anshul's Current Focus"/>
 
 </div>
 
@@ -246,20 +254,106 @@ A collection of solutions for programming problems and competitive coding practi
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🌟_Star_Programmer-C_Programming-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌟_Star_Programmer-C_Programming-36BCF7?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/🏅_GSSOC'25-Campus_Ambassador-orange?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/💯_Discrete_Structures-100%2F100-success?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/🤖_Rudiments_of_AI-97%2F100-purple?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🎯 Current Focus
+# 🌱 Currently Learning
 
-```text
-Java & DSA                 ███████████████████░  90%
-Full-Stack Development     █████████████████░░░  85%
-SQL & DBMS                 ████████████████░░░░  80%
-Open Source                ████████████░░░░░░░░  60%
-System Design              ██████████░░░░░░░░░░  50%
+<div align="center">
+
+`Advanced Java` • `Data Structures & Algorithms` • `Java Streams`
+
+`Lambda Expressions` • `React` • `Node.js` • `MongoDB`
+
+`SQL & DBMS` • `System Design` • `Software Engineering`
+
+</div>
+
+---
+
+# 💡 What I Like
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="220">
+<br>
+💻
+<br><br>
+<b>Building</b>
+<br>
+Real-World Applications
+<br><br>
+</td>
+
+<td align="center" width="220">
+<br>
+🧠
+<br><br>
+<b>Solving</b>
+<br>
+DSA Problems
+<br><br>
+</td>
+
+<td align="center" width="220">
+<br>
+🌐
+<br><br>
+<b>Exploring</b>
+<br>
+Web Technologies
+<br><br>
+</td>
+
+<td align="center" width="220">
+<br>
+🤝
+<br><br>
+<b>Collaborating</b>
+<br>
+Open Source
+<br><br>
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to connecting with developers, students and tech enthusiasts.
+
+<br><br>
+
+<a href="https://linkedin.com/in/anshul-l-1a9152313ansh-ul">
+<img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+⭐ **If you find my projects interesting, consider giving them a star!**
+
+<br><br>
+
+### Code. Learn. Build. Repeat. 🚀
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
+</div>
